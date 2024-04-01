@@ -1,6 +1,6 @@
 ### Hi there 👋, San Chain Tun
 #### AI and Computer Vision 
-![AI and Computer Vision ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![AI and Computer Vision ](https://www.canva.com/design/DAGBKsbVU2Q/5Azai9ssSz6Fwhl_317eUA/edit?utm_content=DAGBKsbVU2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I'm San Chain Tun, currently pursuing a PhD in Japan. I'm deeply passionate about Computer Vision and AI, with a focus on real-world applications. I hold a Master's degree in Engineering, specializing in Cow Lameness Detection using Depth Image Analysis. Let's connect and discuss AI innovations!
 
