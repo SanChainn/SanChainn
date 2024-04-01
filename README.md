@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, San Chain Tun
+#### AI and Computer Vision 
+![AI and Computer Vision ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**SanChainn/SanChainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm San Chain Tun, currently pursuing a PhD in Japan. I'm deeply passionate about Computer Vision and AI, with a focus on real-world applications. I hold a Master's degree in Engineering, specializing in Cow Lameness Detection using Depth Image Analysis. Let's connect and discuss AI innovations!
 
-Here are some ideas to get you started:
+Skills: Python , Computer Vision , Object Detection , Image Recognition , Deep Learning , Machine Learning , Tensorflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My PhD Degree  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/san-chain-tun-8bb1aa179//)  
+
