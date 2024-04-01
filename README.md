@@ -6,8 +6,8 @@ I'm San Chain Tun, currently pursuing a PhD in Japan. I'm deeply passionate abou
 
 Skills: Python , Computer Vision , Object Detection , Image Recognition , Deep Learning , Machine Learning , Tensorflow
 
-- 🔭 I’m currently working on My PhD Degree  
+- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/san-chain-tun-8bb1aa179//)  
+
 
