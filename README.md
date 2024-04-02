@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **AI and Computer Vision**
 
+- 🤖 I have experience **Python, Computer Vision, Object Detection, Image Recognition, Deep Learning, Machine Learning , and Tensorflow**
+
 - 👨‍💻 All of my projects are available at [https://github.com/SanChainn/SanChainn/blob/main/README.md](https://github.com/SanChainn/SanChainn/blob/main/README.md)
 
 - 📫 How to reach me **sanchaintunucsy@gmail.com**
