@@ -3,11 +3,11 @@
 <div align="center"> 
 <img src="https://github.com/SanChainn/SanChainn/blob/main/San%20Chain%20Tun%20(1).png">
 </div>
-- 🔭 I’m currently studying on **PhD at the University of Miyazaki, Japan**
+- 🔭 I’m currently attending **PhD at the University of Miyazaki, Japan**
 
 - 🌱 I’m currently learning **AI and Computer Vision**
 
-- 🤖 I have experience **Python, Computer Vision, Object Detection, Image Recognition, Deep Learning, Machine Learning , and Tensorflow**
+- 🤖 I have experience **Python, Computer Vision, Object Detection, Image Recognition, Deep Learning, Machine Learning, and Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanChainn/SanChainn/blob/main/README.md](https://github.com/SanChainn/SanChainn/blob/main/README.md)
 
