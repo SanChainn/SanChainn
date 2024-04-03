@@ -4,6 +4,10 @@
 <img src="https://github.com/SanChainn/SanChainn/blob/main/San%20Chain%20Tun%20(1).png">
 </div>
 
+<div align="center"> 
+<img src="https://github.com/SanChainn/SanChainn/blob/main/San%20Chain%20Tun%20(1).png">
+</div>
+
 - 🔭 I’m currently attending **PhD at the University of Miyazaki, Japan**
 
 - 🌱 I’m currently learning **AI and Computer Vision**
