@@ -14,7 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanChainn/SanChainn/blob/main/README.md](https://github.com/SanChainn/SanChainn/blob/main/README.md)
 
-- 📫 How to reach me **sanchaintunucsy@gmail.com**
+- 📫 Gmail    **sanchaintunucsy@gmail.com**
+- 📫 Linkedin **linkedin.com/in/san-chain-tun-8bb1aa179**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
