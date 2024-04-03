@@ -14,8 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanChainn/SanChainn/blob/main/README.md](https://github.com/SanChainn/SanChainn/blob/main/README.md)
 
-- <a href="mailto:sanchaintunucsy@gmail.com"><i class="far fa-envelope"></i> Gmail</a>
-- <a href="https://www.linkedin.com/in/san-chain-tun-8bb1aa179"><i class="fab fa-linkedin"></i> Linkedin</a>
+- <a href="mailto:sanchaintunucsy@gmail.com">&#x1F4E7; Gmail</a>
+- <a href="https://www.linkedin.com/in/san-chain-tun-8bb1aa179">&#x1F4E1; Linkedin</a>
+
 
 
 
