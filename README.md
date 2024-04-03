@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Computer Vision and AI Engineer</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/SanChainn/SanChainn/main/San%20Chain%20TunBanner.png" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchainn&label=Profile%20views&color=0e75b6&style=flat" alt="sanchainn" /> </p>
 
 - 🔭 I’m currently pursuing **a PhD at the University of Miyazaki, Japan**
 
