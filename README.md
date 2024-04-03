@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchainn&label=Profile%20views&color=0e75b6&style=flat" alt="sanchainn" /> </p>
 
-- 🔭 I’m currently studying on **PhD at the University of Miyazaki, Japan**
+- 🔭 I’m currently pursuing **a PhD at the University of Miyazaki, Japan**
 
-- 🌱 I’m currently researching **Cow Detection, Segmemtation and Customize Tracking Algorithm**
+- 🌱 I’m currently researching **Cow Lameness Detection using Depth Image **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanChainn](https://github.com/SanChainn)
 
-- 💬 Ask me about **Deep Learning , Computer Vison**
+- 💬 Ask me about **Deep Learning , Computer Vision**
 
-- 📫 How to reach me **waihnineaindrarmg@gmail.com**
+- 📫 How to reach me **sanchaintunucsy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
