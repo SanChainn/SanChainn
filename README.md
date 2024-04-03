@@ -1,11 +1,3 @@
-<img src="https://profile-counter.glitch.me/{SanChainn}/count.svg" alt="Profile Views" width="100" height="20">
-<div style="display: inline-block; background-color: black; color: blue; padding: 5px 10px; border-radius: 5px;">
-  Profile Views: <img src="https://profile-counter.glitch.me/SanChainn/count.svg" alt="Profile Views" style="vertical-align: middle;">
-</div>
-
-
-
-
 <h1 align="center">Hi 👋, I'm San Chain Tun</h1>
 <h3 align="center">A Passionate Computer Vision and AI Engineer</h3>
 
