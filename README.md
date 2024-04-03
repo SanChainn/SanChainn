@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **a PhD at the University of Miyazaki, Japan**
 
-- 🌱 I’m currently researching **Cow Lameness Detection using Depth Image **
+- 🌱 I’m currently researching **Cow Lameness Detection using Depth Image Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanChainn](https://github.com/SanChainn)
 
