@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm San Chain Tun</b></h1>
 <h3 align="center"><b>A Passionate Computer Vision and AI Engineer</b></h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/SanChainn/SanChainn/main/San%20Chain%20TunBanner.png" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/SanChainn/SanChainn/main/SanChainTun.png" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchainn&label=Profile%20views&color=0e75b6&style=flat" alt="sanchainn" /> </p>
 
 - 🔭 I’m currently pursuing **a PhD at the University of Miyazaki, Japan**
