@@ -115,7 +115,6 @@ FastAPI, Qdrant, PostgreSQL, and Docker.
 - 🤖 **Best Innovative Robot Award** — World Robot Olympiad (WRO) 2020
 - 🥇 **Performance Award** — World Robot Game (WRG) 2020
 - 💡 **Design & Innovative Award** — APT Young Professionals Robotic Competition 2018
-- 🎓 **First Class Honours** — Bachelor of Computer Technology, UCSY, Myanmar
 
 ---
 
